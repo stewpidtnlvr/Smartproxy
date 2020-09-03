@@ -1,6 +1,6 @@
 {
-  "name": "Node.js Sample",
-  "description": "A barebones Node.js app using Express 4",
+  "name": "Smartproxy",
+  "description": "very proxy much smart",
   "repository": "https://github.com/stewpidtnlvr/Smartproxy/",
   "logo": "https://node-js-sample.herokuapp.com/node.svg",
   "keywords": ["node", "express", "static"]
